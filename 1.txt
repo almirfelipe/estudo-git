@@ -1,4 +1,6 @@
-fffffffffffff
-ggggggggggggggggg
-eeeeeeeeeeeeeeee
-fffffffffffff
+<html>
+  <head><title>teste</title></head>
+  <body>
+    <h1>texto</h1>
+  </body>
+</html>
